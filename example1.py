@@ -1,1 +1,1 @@
-print("T    vvvarek")
+print("T      vvvarek")
