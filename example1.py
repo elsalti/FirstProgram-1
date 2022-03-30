@@ -1,1 +1,1 @@
-print("Tcc arek")
+print("T ccccccc arek")
